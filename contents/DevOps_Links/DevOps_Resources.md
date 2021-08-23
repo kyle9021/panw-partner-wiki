@@ -1,0 +1,119 @@
+# DevOps & DevSecOps
+
+## Manifesto
+
+_**Through Security as Code**, we have and will learn that there is simply **a better way for security practitioners**, like us, to operate and contribute **value with less friction**. We know **we must adapt** our ways quickly and **foster innovation** to ensure data security and privacy issues are not left behind because **we were too slow to change**._
+
+_By developing security as code, we will strive to create awesome products and services, provide insights directly to developers, and generally **favor iteration** over trying to always come up with the best answer before a deployment. **We will operate like developers to make security and compliance available to be consumed as services.** We will unlock and unblock new paths to help others see their ideas become a reality._
+
+_**We won't simply rely on scanners and reports** to make code better. We will attack products and services like an outsider to help you defend what you've created. We will learn the loopholes, look for weaknesses, and we will work with you to provide **remediation actions** instead of **long lists of problems for you to solve on your own**._
+
+_**We will not wait** for our organizations to fall victim to mistakes and attackers. **We will not settle** for finding what is already known; instead, we will look for anomalies yet to be detected. **We will strive to be a better partner** by valuing what you value..._
+
+[From the DEVSECOPS MANIFESTO](https://www.devsecops.org/)
+
+***
+
+### Documentation
+
+* [Prisma CI/CD Integrations](https://docs.prismacloudcompute.com/docs/integrations.html)
+* [Prisma Cloud Toolbox from Tom Kishel](https://github.com/tkishel/pc-toolbox)
+* [Prisma API Documentation and RQL](https://prisma.pan.dev/)
+* [Prisma Compute Documentation](https://docs.twistlock.com/docs/compute_edition/welcome/welcome.html)
+* [Prisma Enterprise Dev RQL & API Documentation](https://prisma.pan.dev/api/cloud/api-integration-config)
+* [MicroSegmentation Documentation](https://docs.aporeto.com/saas/apoctl/)
+* [Prisma Cloud Compute Documentation NEW](https://docs.twistlock.com/docs/)
+
+### Cheat sheets for dev
+
+* [Bash Cheat Sheet](https://devhints.io/bash)
+* [Docker Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
+* [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+* [VIM Cheat Sheet](https://vim.rtorr.com/)
+
+### Technology vendor agnostic best practices and other development concept resources
+
+* [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+* [Spinnaker for Deployments](https://spinnaker.io/)
+* [KodeKloud Kubernetes](https://www.weave.works/technologies/the-journey-to-kubernetes/)
+* [PAN Dev Blog](https://medium.com/palo-alto-networks-developer-blog)
+* [SSH Best Practices](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
+* [DevOps Excercises](https://github.com/bregman-arie/devops-exercises) - Thank you Dan Weaver!
+* [Official JQ Documentation](https://stedolan.github.io/jq/manual/)
+* [Bash REST API Execution](https://apiacademy.co/2019/10/devops-rest-api-execution-through-bash-shell-scripting/)
+* [Agile Manifesto](https://agilemanifesto.org/)
+* [Digital Ocean Install & Use Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
+* [Pragmatic Programmer Tips](https://pragprog.com/tips/)
+* [Fuzzing Java in OSS-Fuzz](http://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html)
+* [Atom Text Editor](https://atom.io/)
+* [Juypter-notebook](https://atom.io/packages/jupyter-notebook)
+* [Kaizen](https://www.kaizen.com/what-is-kaizen.html)
+
+### Lab Set-up & Walkthroughs Specific To DevOps/DevSecOps
+
+* [Prisma Cloud Azure RedHat OpenShift (ARO) workshop From David Okeyode](https://github.com/davidokeyode/prismacloud-workshops-labs/tree/main/workshops/azure-redhat-openshift)
+* [Prisma - Azure DevOps Workshop From David Okeyode](https://github.com/davidokeyode/prismacloud-workshops-labs)
+* [Prisma Cloud Microsegmentation Lab in a Box POC GitHub](https://github.com/aporeto-se/poc-in-a-box) - Thank you Jody Scott
+* [Prisma Cloud Microsegmentation Cloud Auto Registration Tool GitHub](https://github.com/aporeto-se/aporeto-k8s-enforcerd-builder) - Thank you Jody Scott
+* [Prisma Cloud Microsegmentation DHCP Tip](https://pa-partner-wiki.ml/Prisma%20Cloud%20Microsegmentation%20and%20DHCP%20-%20Tips%20from%20Jody%20Scott.md)- Thank you Jody Scott
+
+### Videos Demos and Walkthroughs
+
+* [Prisma Cloud Compute Automation - Kubernetes Operator and Terraform Provider recorded session](https://paloaltonetworks.hosted.panopto.com/Panopto/Pages/Viewer.aspx?)
+* [Microsegmentation DevSecOps Demo](https://www.youtube.com/watch?v=M2U5vZLUVZk)
+
+### Certfications Information outside of Palo Alto Networks
+
+* [Certified Kubernetes Security Specialist](https://www.cncf.io/certification/cks/)
+* [Certified Kubernetes Admin](https://www.cncf.io/certification/cka/)
+* [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/)
+
+### Partner sourced blogs and content - Please add to this!
+
+* [Optiv Blog on K8s and Prisma Cloud](https://www.optiv.com/insights/source-zero/blog/defending-against-container-threats-palo-alto-prisma-cloud)
+* [Optiv Blog on Container Security and Prisma Cloud](https://www.optiv.com/insights/source-zero/blog/anatomy-kubernetes-attack-how-untrusted-docker-images-fail-us)
+* [Optiv Blog on IaC](https://www.optiv.com/insights/source-zero/blog/infrastructure-code-terraform-aws-eks-gitlab-prisma-cloud)
+* [Insight Sourced Article on the challenges of Kubernetes - Thank you Chase](https://blog.dave.tf/post/new-kubernetes/)
+* [Insight Sourced Podcast on Kubernetes - Thank you Chase](https://kubernetespodcast.com/episode/155-software-supply-chain-security/)
+
+### GitHub Prisma Resources
+
+_Reporting/API Scripts_
+
+* [Lunchbox pov api kpi report: Pulls high level KPIs from the Prisma Cloud Console for Lunchbox POV](https://github.com/Kyle9021/pcee_lunchbox_pov_api_cspm)
+* [Containerized Python API Report Script: Pull high level KPIs from the Prisma Cloud Enterprise](https://github.com/Kyle9021/PCEE_PYTHON_DOCKERFILE_PCS_INSPECT)
+* [Perform any RQL Query from API](https://github.com/Kyle9021/Generic_PCEE_API_SCRIPT)
+* [Add User using the API Prisma Cloud Enterprise Edition](https://github.com/Kyle9021/pcee_add_user_api_script)
+* [Prisma Cloud Enterprise Edition API Example Script to find container software packages](https://github.com/Kyle9021/pcee_compute_api_find_container_software_packages) -updated and fixed! 06.29.2021
+* [SELF_HOSTED VERSION: Prisma Cloud Compute Defender Install From API Sample Script with instructions](https://github.com/Kyle9021/pcc_defender_api_deploy/blob/main/README.md)
+
+_IaC/Container Scanning for CI/CD or Dev Use_
+
+* [New GUI version of IaC Scanning Tool](https://github.com/Kyle9021/pcee_iac_gui_it_tool)
+* [IaC Scanning tool Rev 2](https://github.com/Kyle9021/pcee_iac_demo_scanning_tool_rev2)
+* [IaC Scanning Powershell ](https://github.com/Kyle9021/iac_power_shell)
+* [IAC Scanning Bash Script - Kyle's Version While Learning](https://github.com/Kyle9021/IaC-POC-Prisma-Cloud-Enterprise/blob/main/README.md)
+* [IAC Scanning THE MASTER'S VERSION TOM KISHEL](https://github.com/tkishel/pc_iac)
+* [GitHub Actions IAC Scanning](https://github.com/prisma-cloud-shiftleft/iac-scan-action)
+* [GitHub Actions Image Scanning](https://github.com/PaloAltoNetworks/prisma-cloud-scan)
+* [Terraform IAC Lab](https://github.com/PaloAltoNetworks/terraform-iac-lab)
+* [Terraform Provider for Prisma Cloud Compute](https://github.com/PaloAltoNetworks/terraform-provider-prismacloudcompute)
+
+_Other Prisma Resources_
+
+* [Scott McAndrew's Dude where's my compliance for Prisma Cloud](https://github.com/scottymcandrew/dude_wheres_my_compliance)
+* [Prisma Enhanced Remediations](https://github.com/PaloAltoNetworks/Prisma-Enhanced-Remediation)
+* [Prisma Cloud Policies - For API Import](https://github.com/PaloAltoNetworks/prisma-cloud-policies)
+* [Prisma Cloud Postman Set-up](https://github.com/PaloAltoNetworks/pcs-postman)
+* [Prisma Golang SDK](https://github.com/PaloAltoNetworks/prisma-cloud-go)
+* [Prisma Enhanced Auto Remediation Plays](https://github.com/PaloAltoNetworks/Prisma-Enhanced-Remediation)
+* [PAN Splunk app](https://github.com/PaloAltoNetworks/Splunk-Apps)
+* [Palo Alto's Git Hub Public Repo](https://github.com/PaloAltoNetworks?q=prisma&type=&language=&sort=)
+* [Twistlock GitHub](https://github.com/twistlock)
+
+_Demo resources_
+
+* [Scott McAndrew WAAS - Advanced Lab](https://github.com/scottymcandrew/this_is_an_app_attack___this_IS_app_attack)
+* [Microservices Easy Deployment Demo](https://github.com/GoogleCloudPlatform/microservices-demo)
+* [Sock-shop Easy Deployment for demoing microservices](https://github.com/microservices-demo/microservices-demo)

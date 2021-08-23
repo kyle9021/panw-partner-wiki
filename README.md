@@ -1,0 +1,1 @@
+# panw-partner-wiki

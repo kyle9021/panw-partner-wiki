@@ -6,9 +6,7 @@ Created and Maintained by Kyle Butler
 
 To enable internal Palo Alto Network System Engineers and channel partner engineers more efficiently and effectively by providing a collaborative space where individuals are able to share, edit, and create documentation specific to Prisma Cloud Enterprise and Compute Edition.
 
-Make sure you read this [page](https://pa-partner-wiki.ml/Intro%20to%20working%20with%20md%20and%20how%20to%20contribute.md)! It covers community guidelines and a quick primer on Markdown. Enjoy and thank you!
-
-[Site Contents/Table of Contents](https://pa-partner-wiki.ml/Site%20Contents.md)
+Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/Wiki_Guidelines.md)! It covers community guidelines and a quick primer on Markdown. Enjoy and thank you!
 
 
 ## Manifesto
@@ -28,7 +26,7 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 
 ### DevSecOps
 
-* [Prisma Cloud Compute Automation - Kubernetes Operator and Terraform Provider recorded session](https://paloaltonetworks.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfc40f91-d8be-495d-a5df-ad870128f940)
+* [Prisma Cloud Compute Automation - Kubernetes Operator and Terraform Provider recorded session](https://paloaltonetworks.hosted.panopto.com/Panopto/Pages/Viewer.aspx?)
 * [Microsegmentation DevSecOps Demo](https://www.youtube.com/watch?v=M2U5vZLUVZk)
 * [Prisma CI/CD Integrations](https://docs.prismacloudcompute.com/docs/integrations.html)
 * [Prisma Cloud Toolbox from Tom Kishel](https://github.com/tkishel/pc-toolbox)
@@ -68,7 +66,7 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 * [Prisma Cloud for Azure Quick Overview Sheet](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/prisma-cloud-for-azure.pdf)
 * [Prisma Cloud for AWS Quick Overview Sheet](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/prisma-cloud-on-aws.pdf)
 * [Prisma Cloud for GCP Quick Overview Sheet](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/prisma-cloud-for-gcp.pdf)
-* [NCC Security Report on Istio](https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/)
+* [NCCG Security Report on Istio](https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/)
 
 ### Partner sourced blogs and content - Please add to this!
 
@@ -83,16 +81,16 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 
 _These labs were created or curated by Kyle Butler and are a set of labs meant to be done in order to learn different aspects of the technology and gain familiarity with the Prisma platform:_
 
-* [Minikube VM Prisma Cloud Compute Deployment - self-hosted mini lab - DVWA - Docker - Kubernetes - App Embedded Defenders](https://pa-partner-wiki.ml/Minikube%20Prisma%20Cloud%20Compute%20Partner%20VM%20Lab%20Deployment%20Instructions.md)
-* [Prisma Cloud Compute OneBox on K3S for demo lab environment - Maintains State after reboot](https://pa-partner-wiki.ml/Full%20Compute%20Lab%20Build%20Out%20Walkthrough%20---not%20for%20production.md)
-* [Prisma Cloud Compute - Lab Set-up Docker Compose Tutorial](https://pa-partner-wiki.ml/Prisma%20Cloud%20Compute%20Improved%20Lab%20-%20Docker%20Compose%20-%20Quick%20Build%20-%20Incomplete%20Draft.md)
-* [Prisma Cloud CSPM RESTFUL API Tutorial with Hashicorp Vault](https://pa-partner-wiki.ml/Prisma%20RESTFUL%20API%20Tutorial%20for%20the%20CSPM%20API%20ENDPOINTS.md)
-* [Prisma Cloud Compute - Docker Role Based Access Control Tutorial](https://pa-partner-wiki.ml/Role-based%20access%20control%20for%20Docker%20Engine%20Tutorial%20.md)
-* [AWS ECR (Elastic Container Repository) Deployment](https://pa-partner-wiki.ml/AWS%20ECR%20%28Elastic%20Container%20Repository%29%20Set-up.md)
-* [Runtime defense - WAAS - Command Injection - Demo](https://pa-partner-wiki.ml/WAAS%20-%20DVWA%20-%20Command%20Injection%20-%20Demo%20Instructions.md)
-* [WAAS - DVWA - SQL Injection - Demo Instructions](https://pa-partner-wiki.ml/WAAS%20-%20DVWA%20-%20SQL%20Injection%20-%20Demo%20Instructions.md)
-* [Twistcli Manual Docker Image Scan](https://pa-partner-wiki.ml/Twistcli%20manual%20image%20scan%20from%20Linux%20Shell.md)
-* [Show Security Risks of Running a Container in Privileged Mode](https://pa-partner-wiki.ml/Demo%20Security%20Risks%20of%20Running%20a%20Docker%20Container%20in%20Privileged%20Mode.md)
+* [Minikube VM Prisma Cloud Compute Deployment - self-hosted mini lab - DVWA - Docker - Kubernetes - App Embedded Defenders](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_Compute_Minikube_Lab.md)
+* [Prisma Cloud Compute OneBox on K3S for demo lab environment - Maintains State after reboot](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_Compute_k3s_Lab_Build.md)
+* [Prisma Cloud Compute - Lab Set-up Docker Compose Tutorial](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_Compute_Ecosystem_Deploy_Docker_Compose.md)
+* [Prisma Cloud CSPM RESTFUL API Tutorial with Hashicorp Vault](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_Enterprise_API_Tutorial.md)
+* [Prisma Cloud Compute - Docker Role Based Access Control Tutorial](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_Compute_Docker_RBAC_Tutorial.md)
+* [AWS ECR (Elastic Container Repository) Deployment](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_AWS_ECR_Set-up.md)
+* [Runtime defense - WAAS - Command Injection - Demo](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_Compute_Command_Injection_WAAS_Demo.md)
+* [WAAS - DVWA - SQL Injection - Demo Instructions](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_Compute_SQL_Injection_Demo_Tutorial.md)
+* [Twistcli Manual Docker Image Scan](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_Compute_Twistcli_Manual_Image_Scan.md)
+* [Show Security Risks of Running a Container in Privileged Mode](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/labs/Prisma_Cloud_Compute_Privileged_Mode_Container_Demo.md)
 
 
 ### Walkthroughs and Tutorials 200+ level for Demo Environments/Pre-Sales

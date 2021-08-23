@@ -8,7 +8,7 @@ To enable internal Palo Alto Network System Engineers and channel partner engine
 
 Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/Wiki_Guidelines.md)! It covers community guidelines and a quick primer on Markdown. Enjoy and thank you!
 
-### [DevSecOps contents - Link](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/DevOps_Links/DevOps_Resources.md)
+### [DevSecOps contents - Links](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/DevOps_Links/DevOps_Resources.md) -seperating out for easier navigation.
 
 ### Service Enablement
 

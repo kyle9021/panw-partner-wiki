@@ -24,31 +24,6 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 * [MicroSegmentation Documentation](https://docs.aporeto.com/saas/apoctl/)
 * [Prisma Cloud Compute Documentation NEW](https://docs.twistlock.com/docs/)
 
-### Cheat sheets for dev
-
-* [Bash Cheat Sheet](https://devhints.io/bash)
-* [Docker Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
-* [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-* [VIM Cheat Sheet](https://vim.rtorr.com/)
-
-### Technology vendor agnostic best practices and other development concept resources
-
-* [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
-* [Spinnaker for Deployments](https://spinnaker.io/)
-* [KodeKloud Kubernetes](https://www.weave.works/technologies/the-journey-to-kubernetes/)
-* [PAN Dev Blog](https://medium.com/palo-alto-networks-developer-blog)
-* [SSH Best Practices](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
-* [DevOps Excercises](https://github.com/bregman-arie/devops-exercises) - Thank you Dan Weaver!
-* [Official JQ Documentation](https://stedolan.github.io/jq/manual/)
-* [Bash REST API Execution](https://apiacademy.co/2019/10/devops-rest-api-execution-through-bash-shell-scripting/)
-* [Agile Manifesto](https://agilemanifesto.org/)
-* [Digital Ocean Install & Use Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
-* [Pragmatic Programmer Tips](https://pragprog.com/tips/)
-* [Fuzzing Java in OSS-Fuzz](http://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html)
-* [Atom Text Editor](https://atom.io/)
-* [Juypter-notebook](https://atom.io/packages/jupyter-notebook)
-* [Kaizen](https://www.kaizen.com/what-is-kaizen.html)
 
 ### Lab Set-up & Walkthroughs Specific To DevOps/DevSecOps
 
@@ -62,20 +37,6 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 
 * [Prisma Cloud Compute Automation - Kubernetes Operator and Terraform Provider recorded session](https://paloaltonetworks.hosted.panopto.com/Panopto/Pages/Viewer.aspx?)
 * [Microsegmentation DevSecOps Demo](https://www.youtube.com/watch?v=M2U5vZLUVZk)
-
-### Certfications Information outside of Palo Alto Networks
-
-* [Certified Kubernetes Security Specialist](https://www.cncf.io/certification/cks/)
-* [Certified Kubernetes Admin](https://www.cncf.io/certification/cka/)
-* [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/)
-
-### Partner sourced blogs and content - Please add to this!
-
-* [Optiv Blog on K8s and Prisma Cloud](https://www.optiv.com/insights/source-zero/blog/defending-against-container-threats-palo-alto-prisma-cloud)
-* [Optiv Blog on Container Security and Prisma Cloud](https://www.optiv.com/insights/source-zero/blog/anatomy-kubernetes-attack-how-untrusted-docker-images-fail-us)
-* [Optiv Blog on IaC](https://www.optiv.com/insights/source-zero/blog/infrastructure-code-terraform-aws-eks-gitlab-prisma-cloud)
-* [Insight Sourced Article on the challenges of Kubernetes - Thank you Chase](https://blog.dave.tf/post/new-kubernetes/)
-* [Insight Sourced Podcast on Kubernetes - Thank you Chase](https://kubernetespodcast.com/episode/155-software-supply-chain-security/)
 
 ### GitHub Prisma Resources
 
@@ -117,3 +78,17 @@ _Demo resources_
 * [Scott McAndrew WAAS - Advanced Lab](https://github.com/scottymcandrew/this_is_an_app_attack___this_IS_app_attack)
 * [Microservices Easy Deployment Demo](https://github.com/GoogleCloudPlatform/microservices-demo)
 * [Sock-shop Easy Deployment for demoing microservices](https://github.com/microservices-demo/microservices-demo)
+
+### Certfications Information outside of Palo Alto Networks
+
+* [Certified Kubernetes Security Specialist](https://www.cncf.io/certification/cks/)
+* [Certified Kubernetes Admin](https://www.cncf.io/certification/cka/)
+* [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/)
+
+### Partner sourced blogs and content - Please add to this!
+
+* [Optiv Blog on K8s and Prisma Cloud](https://www.optiv.com/insights/source-zero/blog/defending-against-container-threats-palo-alto-prisma-cloud)
+* [Optiv Blog on Container Security and Prisma Cloud](https://www.optiv.com/insights/source-zero/blog/anatomy-kubernetes-attack-how-untrusted-docker-images-fail-us)
+* [Optiv Blog on IaC](https://www.optiv.com/insights/source-zero/blog/infrastructure-code-terraform-aws-eks-gitlab-prisma-cloud)
+* [Insight Sourced Article on the challenges of Kubernetes - Thank you Chase](https://blog.dave.tf/post/new-kubernetes/)
+* [Insight Sourced Podcast on Kubernetes - Thank you Chase](https://kubernetespodcast.com/episode/155-software-supply-chain-security/)

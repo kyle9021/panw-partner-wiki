@@ -46,7 +46,7 @@ _Reporting/API Scripts_
 * [Containerized Python API Report Script: Pull high level KPIs from the Prisma Cloud Enterprise](https://github.com/Kyle9021/PCEE_PYTHON_DOCKERFILE_PCS_INSPECT)
 * [Perform any RQL Query from API](https://github.com/Kyle9021/Generic_PCEE_API_SCRIPT)
 * [Add User using the API Prisma Cloud Enterprise Edition](https://github.com/Kyle9021/pcee_add_user_api_script)
-* [Prisma Cloud Enterprise Edition API Example Script to find container software packages](https://github.com/Kyle9021/pcee_compute_api_find_container_software_packages) -updated and fixed! 06.29.2021
+* [Prisma Cloud Enterprise Edition API Example Script to find container software packages](https://github.com/Kyle9021/pcee_compute_api_find_container_software_packages)
 * [SELF_HOSTED VERSION: Prisma Cloud Compute Defender Install From API Sample Script with instructions](https://github.com/Kyle9021/pcc_defender_api_deploy/blob/main/README.md)
 
 _IaC/Container Scanning for CI/CD or Dev Use_

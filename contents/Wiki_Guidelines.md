@@ -1,8 +1,8 @@
 # Contents:
 
-* [Markdown Primer](https://pa-partner-wiki.ml/Intro%20to%20working%20with%20md%20and%20how%20to%20contribute.md#purpose)
-* [Community Guidelines](https://pa-partner-wiki.ml/Intro%20to%20working%20with%20md%20and%20how%20to%20contribute.md#here-s-the-community-guidelines)
-* [Security Considerations](https://pa-partner-wiki.ml/Intro%20to%20working%20with%20md%20and%20how%20to%20contribute.md#security-considerations)
+* [Markdown Primer](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/Wiki_Guidelines.md#purpose)
+* [Community Guidelines](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/Wiki_Guidelines.md#here-s-the-community-guidelines)
+* [Security Considerations](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/Wiki_Guidelines.md#security-considerations)
 
 
 ## Purpose:
@@ -72,37 +72,3 @@ Keep in mind this statistic:
 There's currently a shortage of about 3.5 million Cybersecurity jobs: [ref](https://www.pwc.com/gx/en/issues/cybersecurity/digital-trust-insights/cyber-talent-workforce.html)
 
 What that means is, there is currently more demand in the marketplace than there is supply. We need to figure out how to do more with less. This is my attempt at addressing this broader challenge. My goal with this site is create an environment that inspires your assistence in addressing this challenge as well. Thank you!
-
-
-## Security Considerations
-
-Alright, so let me explain a few things to those who may be concerned about security as it relates to this site. 
-
-First, let me address the basic authentication requirements to access this page. There is nothing on this site which links to anything internal to Palo Alto Networks. If there ever was a link to something internal, it wouldn't be accessible due to multiple layers of security PANW's IT has implemented. I put a layer of basic authentication in to ensure that the general population doesn't access this site.
-
-Realize everyone who signs into this site is given "admin" privilages; meaning they can edit content and create content as they see fit. What they cannot edit is the history of changes or the automatic versioning of documentation. My goal here is to eliminate all barriers that might prevent an individual from wanting to contribute. 
-
-Other security measures I've implemented:
-
-* The site is being served using containers through a reverse proxy. The containers themselves aren't volume mounted to anything close to root. Notice that you cannot access this site over http. 
-
-* There's a strict NSG policy associated with the VM which only allows traffic in and out of port 80 and 443. 
-
-* In addition as you can tell from the qualys report below this is being hosted from a single vm in AWS.  
-
-Now is there a possibility some malicious engineer could put a link to something that's malicious? The answer is yes. To mitigate any risk realize you can hover over any link before clicking and be able to see where you're going to be redirected; in addition, you are welcome to copy the home page or any page contained on this site anytime you'd like simply by hitting the edit button and copying out the code. When you hit the edit button the raw urls are shown so you may inspect them anytime you'd like. 
-Thanks to a different partner engineer I had an interaction with or maybe due to...I'm aware that akamai has flagged this site for possible phishing. I've contacted them directly to fix the issue; but because I'm not a customer my ability to get this changed is somewhat limited. 
-
-Here's a link to a qualys report for this site: https://www.ssllabs.com/ssltest/analyze.html?d=pa-partner-wiki.ml
-
-At some point I'll write out a tutorial on how to deploy this site so that others may benefit from this model. If you have security recommendations please feel free to reach out to me directly and I'll address them accordingly! Thank you for your time. 
-
-Kyle Butler
-kbutler@paloaltonetworks.com
-
-
-
-
-
-
-

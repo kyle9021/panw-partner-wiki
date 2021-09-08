@@ -2,6 +2,8 @@
 
 Created and Maintained by Kyle Butler
 
+Everything in this repo is community sourced. None of the labs are officially supported by Palo Alto Networks. Everything should be be considered best effort. Please feel free to email me directly if you have any issues.
+
 ## Purpose
 
 To enable internal Palo Alto Network System Engineers and channel partner engineers more efficiently and effectively by providing a collaborative space where individuals are able to share, edit, and create documentation specific to Prisma Cloud Enterprise and Compute Edition.

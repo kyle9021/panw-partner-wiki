@@ -48,6 +48,11 @@ Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blo
 ### Partner sourced blogs and content - Please add to this!
 
 * [Optiv Blog on Cloud Security - Thank you Ramy](https://www.optiv.com/insights/source-zero/blog/evolution-cloud-forensics-and-incident-response)
+* [Optiv Blog on K8s and Prisma Cloud](https://www.optiv.com/insights/source-zero/blog/defending-against-container-threats-palo-alto-prisma-cloud)
+* [Optiv Blog on Container Security and Prisma Cloud](https://www.optiv.com/insights/source-zero/blog/anatomy-kubernetes-attack-how-untrusted-docker-images-fail-us)
+* [Optiv Blog on IaC](https://www.optiv.com/insights/source-zero/blog/infrastructure-code-terraform-aws-eks-gitlab-prisma-cloud)
+* [Insight Sourced Article on the challenges of Kubernetes - Thank you Chase](https://blog.dave.tf/post/new-kubernetes/)
+* [Insight Sourced Podcast on Kubernetes - Thank you Chase](https://kubernetespodcast.com/episode/155-software-supply-chain-security/)
 
 ### Walkthroughs and Tutorials for Demo Environments/Pre-Sales Beginner CWPP Labs
 

@@ -14,6 +14,7 @@ Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blo
 
 ### Service Enablement
 
+* [Prisma Cloud Compute Troubleshooting Guide](https://docs.prismacloudcompute.com/docs/troubleshooting/troubleshooting/windows/windows_driver_events.html)
 * [Operationalize the CSPM side of Prisma Cloud](https://live.paloaltonetworks.com/t5/digital-learning-articles/prisma-cloud/ta-p/356139)
 * [Knowledge Base Video Library for Prisma Cloud](https://support.paloaltonetworks.com/search#sort=relevancy&f:@source=%5BSalesforce%20Knowledge%5D&f:@panproduct=%5BPrisma%20Cloud%5D&f:@objecttype=%5BKBKnowledge%5D)
 * [Performance Planning for Prisma Cloud Compute](https://docs.paloaltonetworks.com/prisma/prisma-cloud/21-04/prisma-cloud-compute-edition-admin/deployment_patterns/performance_planning)

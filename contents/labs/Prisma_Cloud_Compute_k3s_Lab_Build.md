@@ -72,7 +72,7 @@ sudo apt install jenkins
 sudo systemctl start jenkins
 sudo systemctl status jenkins
 sudo usermod -aG docker jenkins
-chmod 777 /var/run/docker.sock #not good security practice - Would love the commmunity to edit this line - KB
+sudo chmod 777 /var/run/docker.sock #not good security practice - Would love the commmunity to edit this line - KB
 ```
 
 ### Step 2: Set-up Gogs (code repo), dvwa, and deploy sock-shop k8s microservices demo

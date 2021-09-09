@@ -11,6 +11,7 @@ You understand that this is not a production ready server. It should not be able
 Ubuntu 20.04 LTS Desktop VM - to build out more I'd recommend increasing the specs. 
 
 ```bash
+Ubuntu - Desktop
 100 GB HD
 8 GB RAM
 6 processors

@@ -16,6 +16,7 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 
 ### Documentation
 
+* [Prisma Cloud Compute Operator Hub](https://operatorhub.io/operator/pcc-operator)
 * [FedRamp Prisma Compute Docs](https://docs.prismacloudcompute.com/docs/government/Implementation_Guides/fedramp.html)
 * [Prisma Compute Sample Code](https://github.com/twistlock/sample-code)
 * [Prisma CI/CD Integrations](https://docs.prismacloudcompute.com/docs/integrations.html)

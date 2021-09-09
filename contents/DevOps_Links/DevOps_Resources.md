@@ -26,6 +26,7 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 * [Prisma Enterprise Dev RQL & API Documentation](https://prisma.pan.dev/api/cloud/api-integration-config)
 * [MicroSegmentation Documentation](https://docs.aporeto.com/saas/apoctl/)
 * [Prisma Cloud Compute Documentation NEW](https://docs.twistlock.com/docs/)
+* [Prisma Cloud Compute Operator GitHub](https://github.com/PaloAltoNetworks/prisma-cloud-compute-operator)
 
 
 ### Lab Set-up & Walkthroughs Specific To DevOps/DevSecOps

@@ -14,6 +14,7 @@ Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blo
 
 ### Service Enablement
 
+* [Prisma Cloud Operationalize Guide](https://docs.paloaltonetworks.com/content/techdocs/en_US/prisma/prisma-cloud/prisma-cloud-operationalize-compute/getting_started.html)
 * [Prisma Cloud Compute Troubleshooting Guide](https://docs.prismacloudcompute.com/docs/troubleshooting/troubleshooting/windows/windows_driver_events.html)
 * [Operationalize the CSPM side of Prisma Cloud](https://live.paloaltonetworks.com/t5/digital-learning-articles/prisma-cloud/ta-p/356139)
 * [Knowledge Base Video Library for Prisma Cloud](https://support.paloaltonetworks.com/search#sort=relevancy&f:@source=%5BSalesforce%20Knowledge%5D&f:@panproduct=%5BPrisma%20Cloud%5D&f:@objecttype=%5BKBKnowledge%5D)
@@ -33,7 +34,7 @@ Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blo
 * [Prisma Cloud Enterprise Playbook](https://live.paloaltonetworks.com/t5/prisma-cloud/prisma-cloud-enterprise-playbook/ta-p/402731)
 * [Prisma Cloud Compute Edition Playbook](https://live.paloaltonetworks.com/t5/prisma-cloud/prisma-cloud-compute-playbook/ta-p/402832)
 * [Prisma Access SASE Implementations](https://live.paloaltonetworks.com/t5/sase/prisma-access-implementation-playbook-v1-7/ta-p/401780)
-* [Prisma Cloud Operationalize Guide](https://docs.paloaltonetworks.com/content/techdocs/en_US/prisma/prisma-cloud/prisma-cloud-operationalize-compute/getting_started.html)
+
 
 
 ### Sales Presentation Materials
@@ -125,6 +126,7 @@ _Certification specific to Prisma_
 * [Prisma Cloud Compute Documentation NEW](https://docs.twistlock.com/docs/)
 * [Prisma Cloud Compute - Admin Guide](https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/prisma/prisma-cloud/prisma-cloud-admin-compute/prisma-cloud-admin-compute.pdf)
 * [Prisma Cloud - Admin Guide](https://docs.paloaltonetworks.com/prisma/prisma-cloud/prisma-cloud-admin.html)
+* [Prisma Cloud Compute Operationalize Guide](https://docs.paloaltonetworks.com/prisma/prisma-cloud/prisma-cloud-operationalize-compute/getting_started.html)
 
 _Integrations:_
 

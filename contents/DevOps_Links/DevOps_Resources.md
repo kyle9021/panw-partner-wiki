@@ -31,6 +31,7 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 
 ### Lab Set-up & Walkthroughs Specific To DevOps/DevSecOps
 
+* [BridgeCrew Self-lead DevSecOps Workshop](https://bridgecrew.awsworkshop.io/)
 * [Prisma Cloud Azure RedHat OpenShift (ARO) workshop From David Okeyode](https://github.com/davidokeyode/prismacloud-workshops-labs/tree/main/workshops/azure-redhat-openshift)
 * [Prisma - Azure DevOps Workshop From David Okeyode](https://github.com/davidokeyode/prismacloud-workshops-labs)
 * [Prisma Cloud Microsegmentation Lab in a Box POC GitHub](https://github.com/aporeto-se/poc-in-a-box) - Thank you Jody Scott

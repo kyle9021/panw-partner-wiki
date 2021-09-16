@@ -43,7 +43,7 @@ For more reference check out this [markdown cheat sheet](https://www.markdowngui
 
 ## Okay cool, so where do I practice my md skills?
 
-Here would be a good place! If you notice you can always click edit on every page that I created. In fact, you are welcome to hit the button at the top of the `home` page and select the green `new` button to create a new page! That will take you to a GUI editor with shortcuts built-in to convert text you type to markdown. [Try it out](https://pa-partner-wiki.ml/Home#)! 
+Here would be a good place! If you notice you can always click edit on every page that I created. In fact, you are welcome to hit the button at the top of the `home` page and select the green `new` button to create a new page! That will take you to a GUI editor with shortcuts built-in to convert text you type to markdown.
 
 _NOTE: If your practicing just ensure you hit cancel when you're done. Use the `Edit` and `Preview Tab` to get practice._
 

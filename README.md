@@ -98,7 +98,7 @@ _On-board a cloud account_
 
 * [AWS Onboarding for Prisma Cloud Enterprise](https://docs.paloaltonetworks.com/content/techdocs/en_US/prisma/prisma-cloud/prisma-cloud-admin/connect-your-cloud-platform-to-prisma-cloud/onboard-your-aws-account.html)
 * [Azure Onboarding for Prisma Cloud Enterprise](https://docs.paloaltonetworks.com/content/techdocs/en_US/prisma/prisma-cloud/prisma-cloud-admin/connect-your-cloud-platform-to-prisma-cloud/onboard-your-azure-account.html)
-* [AWS Onboarding for Prisma Cloud Enterprise](https://docs.paloaltonetworks.com/content/techdocs/en_US/prisma/prisma-cloud/prisma-cloud-admin/connect-your-cloud-platform-to-prisma-cloud/onboard-your-gcp-account.html)
+* [GCP Onboarding for Prisma Cloud Enterprise](https://docs.paloaltonetworks.com/content/techdocs/en_US/prisma/prisma-cloud/prisma-cloud-admin/connect-your-cloud-platform-to-prisma-cloud/onboard-your-gcp-account.html)
 
 
 ### Learning Resources

@@ -204,6 +204,21 @@ _Integrations:_
 * [About the CIS](https://www.cisecurity.org/about-us/)
     * [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 
+### Industry Reports
+
+* [Supply Chain Security Paper - CNCF](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)
+* [Is the Cloud Secure - Gartner](https://www.gartner.com/smarterwithgartner/is-the-cloud-secure)
+* [Unit 42 Cloud Threat Report, 1H 2021 - Palo Alto Networks](https://www.paloaltonetworks.com/prisma/unit42-cloud-threat-research-1h21)
+* [Cloud Computing Statistics - Cloudwards](https://www.cloudwards.net/cloud-computing-statistics/)
+* Global Ransomware Damage Costs (multiple reports) - Cybersecurity Ventures:
+	- [2017 Report](https://cybersecurityventures.com/global-ransomware-damage-costs-predicted-to-exceed-8-billion-in-2018/)
+	- [2021 Report](https://cybersecurityventures.com/global-ransomware-damage-costs-predicted-to-reach-250-billion-usd-by-2031/)
+* [2019/2020 Official Annual Cybersecurity Jobs Report - Cybersecurity Ventures & MIT](https://www.herjavecgroup.com/wp-content/uploads/2019/10/HG-CV-2019-Cybersecurity-Jobs-Report.pdf)
+* [Gartner Hype Cycle for Cloud Security, 2021](https://www.gartner.com/smarterwithgartner/4-must-have-technologies-that-made-the-gartner-hype-cycle-for-cloud-security-2021)
+* [The Total Economic Impact of Prisma Cloud, June 2021 - Forrester](https://www.paloaltonetworks.com/prisma/forrester-tei-study-prisma-cloud-2021)
+* [2021 State of DevOps report - Puppet](https://puppet.com/resources/report/2021-state-of-devops-report/)
+* [The Life and Times of Cybersecurity Professionals 2021 Volume V - ESG & ISSA](https://www.issa.org/cybersecurity-skills-crisis-continues-for-fifth-year-perpetuated-by-lack-of-business-investment/)
+
 ### MISC
 
 * [Bridgecrew Deal Referral Program for Nextwave Partners](https://www.paloaltonetworks.com/partners/nextwave-partner-portal/partner-program)

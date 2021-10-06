@@ -206,6 +206,7 @@ _Integrations:_
 
 ### Industry Reports
 
+* [MUST READ - Innovation Insight for Cloud-Native Application Protection Platforms - Gartner](https://start.paloaltonetworks.com/gartner-report-cloud-native-application-protection.html)
 * [Supply Chain Security Paper - CNCF](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)
 * [Is the Cloud Secure - Gartner](https://www.gartner.com/smarterwithgartner/is-the-cloud-secure)
 * [Unit 42 Cloud Threat Report, 1H 2021 - Palo Alto Networks](https://www.paloaltonetworks.com/prisma/unit42-cloud-threat-research-1h21)

@@ -51,6 +51,13 @@ Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blo
 * [Prisma Cloud for GCP Quick Overview Sheet](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/prisma-cloud-for-gcp.pdf)
 * [NCCG Security Report on Istio](https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/)
 
+### Prisma Cloud Risk Assessment Resources:
+
+* [NextWave Deal Registration Form](https://identity.paloaltonetworks.com/idp/startSSO.ping?PartnerSpId=https%3A%2F%2Fsaml.salesforce.com.prodpc&InErrorResource=http%3A%2F%2Fwww.paloaltonetworks.com%2Ferrors%2Fpartner-login-error.html&TargetResource=https%3A%2F%2Fpaloaltonetworkssupport.force.com%2FNextWavePartnerProgram%2Fs%2Fnewdealregistration)
+* [Prisma Terraform Provider](https://registry.terraform.io/providers/PaloAltoNetworks/prismacloud/latest/docs/data-sources/ExampleUsage)
+* [Prisma PCA API Report Script](https://github.com/Kyle9021/pcee_lunchbox_pov_api_cspm)
+* [Prisma Cloud Sales Kit](https://www.paloaltonetworks.com/content/dam/pan/en_US/partners/nextwave/sales-enablement/prisma-cloud-kit.pdf)
+
 ### Partner sourced blogs and content - Please add to this!
 
 * [Optiv Blog on Cloud Security - Thank you Ramy](https://www.optiv.com/insights/source-zero/blog/evolution-cloud-forensics-and-incident-response)

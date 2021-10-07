@@ -2,7 +2,10 @@
 
 Created and Maintained by:
 
-Kyle Butler & Goran Bogojevic & John Chavanne & Dan Weaver
+* Kyle Butler
+* Goran Bogojevic
+* John Chavanne
+* Dan Weaver
 
 Everything in this repo is community sourced. None of the labs are officially supported by Palo Alto Networks. Everything should be considered best effort. Please feel free to email me directly if you have any issues.
 

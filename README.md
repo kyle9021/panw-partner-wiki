@@ -11,7 +11,7 @@ Everything in this repo is community sourced. None of the labs are officially su
 
 ## Purpose
 
-To enable internal Palo Alto Network System Engineers and channel partner engineers more efficiently and effectively by providing a collaborative space where individuals are able to share, edit, and create documentation specific to Prisma Cloud Enterprise and Compute Edition.
+To enable internal Palo Alto Network Solutions Architects and channel partner engineers / architects more efficiently and effectively by providing a collaborative space where individuals are able to share, edit, and create documentation specific to Prisma Cloud Enterprise and Compute Edition.
 
 Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blob/main/contents/Wiki_Guidelines.md)! It covers community guidelines and a quick primer on Markdown. Enjoy and thank you!
 

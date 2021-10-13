@@ -70,14 +70,14 @@ Requirements:
 
 In the Prisma Compute Console:
 
-* Step 1a:(Enterprise Edition ONLY) Go to Prisma Console > Compute > Defend > WAAS
-* Step 1b:(Compute Edition) Go to Defend > WAAS
+* Step 1:(Enterprise Edition ONLY) Go to Prisma Console > Compute > Defend > WAAS
+  * Step 1a:(Compute Edition) Go to Defend > WAAS
 * Step 2: Click ‘Add Rule’
 * Step 3: Rule Name: Command Injection Defense
 * Step 4: Then click scope
-* Step 5a: Check boxes of all images that have dvwa in them.
-* Step 5b: If there are none, click 'Add Collection', type in a name, type in 'dvwa' in the image field, select the image(s), and click 'Save'
-* Step 5c: Ensure you have the 'dvwa' boxes checked and click 'Select collections'
+* Step 5: Check boxes of all images that have dvwa in them.
+  * Step 5a: If there are none, click 'Add Collection', type in a name, type in 'dvwa' in the image field, select the image(s), and click 'Save'
+  * Step 5b: Ensure you have the 'dvwa' boxes checked and click 'Select collections'
 * Step 6: Click ‘Add New App’
 * Step 7: On the next pop-up click the ‘+ Add Endpoint’ 
 * Step 8: Enter 80 for App port (internal port) then hit ‘Create’ 

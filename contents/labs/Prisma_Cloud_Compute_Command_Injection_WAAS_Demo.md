@@ -3,7 +3,7 @@
 NOTE: Please do not attempt on the demo enviornment of this wiki. I've provided instructions on how to set-up this lab so attempts will not be made. Thank you. 
 
 Requirements:
-* Prisma Cloud Compute edition deployed; see Deployment Guide here: [Minikube Prisma Cloud Compute Partner VM Lab Deployment Instructions](https://pa-partner-wiki.ml/Minikube%20Prisma%20Cloud%20Compute%20Partner%20VM%20Lab%20Deployment%20Instructions.md)
+* Prisma Cloud Compute edition deployed; see Deployment Guide here: [Minikube Prisma Cloud Compute Partner VM Lab Deployment Instructions](Prisma_Cloud_Compute_Minikube_Lab.md)
 * Container defender deployed in environment where you'll be runnning the DVWA app. 
 * [Docker Installed](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
 * Netcat installed (comes with ubuntu and many other linux distros) for macOS `brew install netcat`

@@ -1,6 +1,7 @@
 ## Command Injection Demo with DVWA App
 
-NOTE: Please do not attempt on the demo enviornment of this wiki. I've provided instructions on how to set-up this lab so attempts will not be made. Thank you. 
+written by Kyle Butler
+last edited by John Chavanne
 
 Requirements:
 * Prisma Cloud Compute edition deployed; see Deployment Guide here: [Minikube Prisma Cloud Compute Partner VM Lab Deployment Instructions](Prisma_Cloud_Compute_Minikube_Lab.md)

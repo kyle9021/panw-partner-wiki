@@ -3,12 +3,15 @@
 * Step 1: Go to Prisma Console > Compute (Enterprise Edition ONLY) > Defend > WAAS
 * Step 2: Click ‘Add Rule’
 * Step 3: Rule Name: SQL Injection Defense
-* Step 4: Add all images that have dvwa in them
-* Step 5: Click ‘Add New App’
-* Step 6: On the next pop-up click the ‘+ Add Endpoint’ 
-* Step 7: Enter 80 for internal port then hit ‘Create Endpoint’ 
-* Step 8: Click the ‘App Firewall' tab and under SQL Injection confirm it is set to Alert. 
-* Step 9: Click ‘Save’
+* Step 4: Then click in the 'Scope' field
+* Step 5: Check boxes of all images that have dvwa in them.
+  * Step 5a: If there are none, click 'Add Collection', type in a name, type in 'dvwa' in the image field, select the image(s), and click 'Save'
+  * Step 5b: Ensure you have the 'dvwa' boxes checked and click 'Select collections'
+* Step 6: Click ‘Add New App’
+* Step 7: On the next pop-up click the ‘+ Add Endpoint’ 
+* Step 8: Enter 80 for App port (internal port) then hit ‘Create’
+* Step 9: Click the ‘App Firewall' tab and under SQL Injection confirm it is set to Alert. 
+* Step 10: Click ‘Save’
 
 ## Log into the DVWA Web App
 

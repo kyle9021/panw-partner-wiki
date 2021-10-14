@@ -71,11 +71,9 @@ if( isset( $_REQUEST[ 'Submit' ] ) ) {
     * Finally, because the attacker now knows the all the pieces of the puzzle they'll be able to execute the last query which will provide the attacker with the encrypted passwords and the usernames. `1' and '1=0' union select null, concat(first_name,0x0a,last_name,0x0a,user,0x0a,password) from users #`. 
     
 
-## (OPTIONAL) Retrieve the passwords using Kali Linux and Jack the Ripper
-
- 
+## (OPTIONAL) Retrieve the passwords using Kali Linux and John the Ripper
     
-Jack the ripper (From Kali Linux 2021.1) commands:
+John the ripper (From Kali Linux 2021.1) commands:
 
 * From terminal `nano password.txt` copy and paste the username and the encrypted password into the text document one line at time in a format like this: `<USERNAME>:<ENCRYPTED_PASSWORD>`. Save the file and exit (ctl + X; respond with Y and hit enter)
 * To install john-the-ripper in the lab: `sudo snap install john-the-ripper` password is `5minuteabs!`

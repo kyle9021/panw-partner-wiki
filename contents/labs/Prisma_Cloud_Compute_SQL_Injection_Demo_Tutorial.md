@@ -1,5 +1,9 @@
 ## Set up the Prisma Cloud WAAS 
 
+written by Kyle Butler
+
+last edited by John Chavanne
+
 * Step 1: Go to Prisma Console > Compute (Enterprise Edition ONLY) > Defend > WAAS
 * Step 2: Click ‘Add Rule’
 * Step 3: Rule Name: SQL Injection Defense

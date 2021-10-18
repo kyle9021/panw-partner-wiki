@@ -4,7 +4,11 @@ To familiarize engineers with the Prisma Cloud CSPM API endpoints using bash and
 
 ## Prerequisites: 
 
-This assumes you have vault running in your lab. If you don't want to run vault in dev mode or set it up properly, you can replace the variables with the secrets. Just ensure you take the necessary steps to protect the secrets you'll be hardcoding into your script. I'm assuming you're using a UNIX based system. This will work on RHEL, MacOS, and other flavors of linux. I wrote the package manager/install instructions for Ubuntu, but if using a different distro replace `apt` with `brew` or `yum`.
+This assumes you have vault running in your lab.  
+* Setup [Vault](https://learn.hashicorp.com/tutorials/vault/getting-started-install?in=vault/getting-started)
+
+   
+If you don't want to run vault in dev mode or set it up properly, you can replace the variables with the secrets. Just ensure you take the necessary steps to protect the secrets you'll be hardcoding into your script. I'm assuming you're using a UNIX based system. This will work on RHEL, MacOS, and other flavors of linux. I wrote the package manager/install instructions for Ubuntu, but if using a different distro replace `apt` with `brew` or `yum`.
 
 
 PANW Engineers --- take yourself off of Global Protect when doing this tutorial

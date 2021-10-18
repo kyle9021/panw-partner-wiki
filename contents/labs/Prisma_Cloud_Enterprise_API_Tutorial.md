@@ -49,9 +49,9 @@ brew install jq
 After installing jq, you'll want to test retrieving your secrets in a secure format. To do that, enter this in terminal:
 
 ```bash
-vault kv get -format=json secret/prisma_enterprise_env | jq -r .data.data.pcee_api_url # retrieves your api url
-vault kv get -format=json secret/prisma_enterprise_env | jq -r .data.data.pcee_accesskey # retrieves prisma accesskey
-vault kv get -format=json secret/prisma_enterprise_env | jq -r .data.data.pcee_secretkey # retrieves your prisma secretkey
+vault kv get -format=json secret/prisma_enterprise_env | jq -r .data.data.pcee_api_url
+vault kv get -format=json secret/prisma_enterprise_env | jq -r .data.data.pcee_accesskey
+vault kv get -format=json secret/prisma_enterprise_env | jq -r .data.data.pcee_secretkey
 ```
 
 ## Step 2: Create your api script to return the JWT needed for authentication

@@ -56,7 +56,11 @@ vault kv get -format=json secret/prisma_enterprise_env | jq -r .data.data.pcee_s
 
 ## Step 2: Create your api script to return the JWT needed for authentication
  
-First, create a new project directory `mkdir prisma_api_dir` and then `cd prisma_api_dir/`
+First, create a new project directory and cd into it:
+```
+mkdir prisma_api_dir
+cd prisma_api_dir/
+```
 
 Next, create a new file `nano prisma_api_test.sh`
 

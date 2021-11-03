@@ -51,6 +51,8 @@ _Container Security Presentations_
 * [Cloud Native Security From Gunjan Patel](https://github.com/gunjan5/cloud-native-security)
 * [Container Security Checklist From Gunjan Patel](https://github.com/gunjan5/container-security)
 * [Shift-Left Security From Gunjan Patel](https://github.com/gunjan5/shift-left-security)
+* [CNCF Supply Chain Security Report 2021](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf
+)
 
 _Reporting/API Scripts_
 

@@ -46,6 +46,12 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 
 ### GitHub Prisma Resources
 
+_Container Security Presentations_
+
+* [Cloud Native Security From Gunjan Patel](https://github.com/gunjan5/cloud-native-security)
+* [Container Security Checklist From Gunjan Patel](https://github.com/gunjan5/container-security)
+* [Shift-Left Security From Gunjan Patel](https://github.com/gunjan5/shift-left-security)
+
 _Reporting/API Scripts_
 
 * [Lunchbox pov api kpi report: Pulls high level KPIs from the Prisma Cloud Console for Lunchbox POV](https://github.com/Kyle9021/pcee_lunchbox_pov_api_cspm)
@@ -58,7 +64,7 @@ _Reporting/API Scripts_
 _IaC/Container Scanning for CI/CD or Dev Use_
 
 * [New GUI version of IaC Scanning Tool](https://github.com/Kyle9021/pcee_iac_gui_it_tool)
-* [IaC Scanning tool Rev 2](https://github.com/Kyle9021/pcee_iac_demo_scanning_tool_rev2)
+* [IaC Scanning tool Rev 3](https://github.com/kyle9021/pcee_iac_scan_tool_rev_3)
 * [IaC Scanning Powershell ](https://github.com/Kyle9021/iac_power_shell)
 * [IAC Scanning Bash Script - Kyle's Version While Learning](https://github.com/Kyle9021/IaC-POC-Prisma-Cloud-Enterprise/blob/main/README.md)
 * [IAC Scanning THE MASTER'S VERSION TOM KISHEL](https://github.com/tkishel/pc_iac)

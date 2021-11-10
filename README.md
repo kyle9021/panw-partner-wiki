@@ -44,6 +44,8 @@ Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blo
 
 ### Sales Presentation Materials
 
+* [FedRamp PANW Marketplace](https://marketplace.fedramp.gov/#!/products?sort=productName&productNameSearch=Palo%20Alto%20Networks)
+* [Prisma FedRamp page](https://www.paloaltonetworks.com/security-for/government/fedramp![image](https://user-images.githubusercontent.com/54778108/141176022-57d24e61-dd82-4669-8995-6391008c999f.png)
 * [ROI for Prisma Cloud](https://www.paloaltonetworks.com/resources/whitepapers/business-case-for-cloud-threat-defense)
 * [Customer Presentation Deck](https://www.paloaltonetworks.com/content/dam/pan/en_US/partners/products/docs/prisma/prisma-cloud-customer-presentation.pptx)
 * [Cloud Threat Defense](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/white-papers/business-case-for-cloud-threat-defense.pdf)

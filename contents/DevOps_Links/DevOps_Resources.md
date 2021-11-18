@@ -22,10 +22,8 @@ _**We will not wait** for our organizations to fall victim to mistakes and attac
 * [Prisma CI/CD Integrations](https://docs.prismacloudcompute.com/docs/integrations.html)
 * [Prisma Cloud Toolbox from Tom Kishel](https://github.com/tkishel/pc-toolbox)
 * [Prisma API Documentation and RQL](https://prisma.pan.dev/)
-* [Prisma Compute Documentation](https://docs.twistlock.com/docs/compute_edition/welcome/welcome.html)
 * [Prisma Enterprise Dev RQL & API Documentation](https://prisma.pan.dev/api/cloud/api-integration-config)
 * [MicroSegmentation Documentation](https://docs.aporeto.com/saas/apoctl/)
-* [Prisma Cloud Compute Documentation NEW](https://docs.twistlock.com/docs/)
 * [Prisma Cloud Compute Operator GitHub](https://github.com/PaloAltoNetworks/prisma-cloud-compute-operator)
 * [DevOps Security Documentation Page](https://docs.paloaltonetworks.com/prisma/prisma-cloud/prisma-cloud-admin/prisma-cloud-devops-security.html)
 

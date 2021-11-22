@@ -203,7 +203,7 @@ We'll use this information once we deploy
 Deploy your app stack
 
 ```bash
-docker-compose --env-file .env up -d
+sudo docker-compose --env-file .env up -d
 ```
 
 ### Step 3: Configure Jenkins

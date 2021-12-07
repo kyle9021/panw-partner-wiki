@@ -1,3 +1,5 @@
+# UPDATE 12.7.2021 --- I'm moving the repo to the offical PANW github account. This will remain here until I'm told to take it down, but will not be updated or maintained. To have the most recent information please go to: https://github.com/PaloAltoNetworks/prisma_channel_resources
+
 # **Palo Alto Channel Prisma Cloud UNOFFICIAL Partner Wiki**
 
 Created and Maintained by:

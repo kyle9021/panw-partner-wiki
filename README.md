@@ -21,8 +21,8 @@ Make sure you read this [page](https://github.com/Kyle9021/panw-partner-wiki/blo
 
 ### Event Tools from Palo Alto Networks
 
-* [Prisma Cloud UTD](https://www.paloaltonetworks.com/partners/nextwave-partner-portal/help-me-market/campaigns/ultimate-test-drive)
-* [CTF Event Webpage](https://www.paloaltonetworks.com/partners/nextwave-partner-portal/help-me-market/campaigns/prismacloudcapturetheflag)
+* [Prisma Cloud Ultimate Test Drive](https://www.paloaltonetworks.com/partners/nextwave-partner-portal/help-me-market/campaigns/ultimate-test-drive)
+* [Capture-the-Flag Event Webpage](https://www.paloaltonetworks.com/partners/nextwave-partner-portal/help-me-market/campaigns/prismacloudcapturetheflag)
 
 ### Prisma Quoting Selling Calculators and Scripts
 

@@ -24,11 +24,11 @@ Ubuntu - Desktop
 
 Set the root password
 ```bash
-sudo passwd
+sudo passwd root
 ```
 Sets the account password
 ```bash
-passwd
+passwd $USER
 ```
 
 Update and upgrade

@@ -79,7 +79,7 @@ sudo chmod 777 /var/run/docker.sock #not good security practice - Would love the
 ### Step 2: Set-up Gogs (code repo), dvwa, and deploy sock-shop k8s microservices demo
 
 ```bash
-docker pull vulnerables/web-dvwa:lastest
+docker pull vulnerables/web-dvwa:latest
 docker pull mysql:latest
 docker pull gogs/gogs:latest
 
